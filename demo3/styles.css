@@ -1,0 +1,24 @@
+html{
+	background-color: #000;
+}
+body{
+	background-color: #ccf;
+	width: 70%;
+	padding: 1em;
+}
+h1{
+	background: #333;
+	color:#ccf;
+	width: 70%;
+	padding: 1em;
+	color: #000;
+}
+div{
+	width: 20px;
+	height: 20px;
+	background: red ;
+	border-radius: 10px;
+	position: absolute;
+	transition: width .2s ease-out;
+	-webkit-transition: width .2s ease-out;
+}
