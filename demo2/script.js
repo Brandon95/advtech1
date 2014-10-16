@@ -1,12 +1,10 @@
 var username="Fred";
-document.getElementByTagName("div")[0].onclick=
-function() {
-	
+document.getElementsByTagName('div')[0].onclick=
+function(){
+	aaa()
 }
 
 function aaa(){
-	document.getElementByTagName("div")[0].onclick=
-function() {
+	document.getElementsByTagName('div')[0].className="state2";
 
-}
 }
