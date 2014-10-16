@@ -18,7 +18,7 @@ div{
 	height: 20px;
 	background: red ;
 	border-radius: 10px;
-	position: absolute;
+	position: absolute; 
 	transition: width .2s ease-out;
 	-webkit-transition: width .2s ease-out;
 }
